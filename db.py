@@ -1,0 +1,1 @@
+print('Database integration placeholder')
